@@ -25,7 +25,5 @@ public class Exam_08 {
 		while(!que.isEmpty()) {
 			System.out.println("제거 : " + que.poll());
 		}
-		
 	}
-
 }
